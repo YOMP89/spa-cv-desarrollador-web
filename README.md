@@ -1,5 +1,7 @@
 # Proyecto: CV Online - Desarrollador Web
 
+![Muestra del proyecto](proyecto.jpg)
+
 ## Descripción del Proyecto
 
 Este proyecto consiste en una **Single Page Application (SPA)** que actúa como un currículum vitae (CV) interactivo para un desarrollador web. La aplicación está diseñada con HTML, CSS y JavaScript puro, sin el uso de frameworks o herramientas de construcción como Webpack. El objetivo es proporcionar una plataforma visualmente atractiva y fácil de navegar donde los visitantes puedan aprender sobre las habilidades, experiencia y proyectos del desarrollador.
